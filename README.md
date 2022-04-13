@@ -8,4 +8,10 @@ ALT attributes added
 Header and Footer elements added
 Concise, descriptive title added
 
+got links working throughout. added id tag so the nav had something to link to
+
+
+Website publised through github
+URL: https://jmak21203.github.io/Horiseon/
+
 
